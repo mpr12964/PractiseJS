@@ -1,0 +1,35 @@
+
+
+
+Day 11: 
+
+1) Create a closure function as a class to create employee object .(properties and all functions should be private).
+write method in the above function which can access to outer world as it can access the all private members of the above class.
+
+2) Write a closure which has a private variable initialised to 0.
+ Return an object which contains four methods each takes a paramter and perform a mathematical operation with avilable private varible and return the result.
+ Also provide a method to get &  update private variable value.
+
+Day 12: 
+
+1) Create a   counter function using closure concept.
+2) Create a function with private properties such productId , name, price, 
+   return an object contains methods to access the properties in the above function.
+  
+3) create an object having 2  properties, one contains array of numbers. the other  is a method is used to calculate the sum of the array elements in the above mentioned property.
+
+4) Create a new  student object which has properties such as name,rollno, markes in one property.
+5) Caclaute the sum of marks by using call and apply methods.
+6) Try to create a counter using IIFE.
+
+
+Day 13:
+
+1) Create a Student class(function) to add the instance properties such as name, age, course, address:{landMark, street, city, state, country }
+
+Create 2 objects by using the student class (use new ) with diffirent values.
+Save them to localStorage and sessionStorage and extract them back into two different references.
+
+2) Create copy of one of the above object.
+3) Try the above once using sessionStorage also.
+
