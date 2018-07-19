@@ -48,3 +48,6 @@ Day 14:
 4) Write a function to create a copy of an existing array (pass as parameter) and return the new copy of the array (if provided takes second and third paramters from position and to position).
 
  Write the above programme in all possible ways.
+
+5) Write a function which maintains an array and the function returns an object in which we will be having four functions one for each operation
+push ,pop, shift , unshift and a function to view the array elements.
