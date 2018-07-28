@@ -1,0 +1,58 @@
+Day 17
+
+1) Write a function to merge two arrays.
+2) Create a copy of the array using spread operator.
+3) Fetch first three elements of array into local variables.
+4) Assign default values to variables a,b,c with value 10 if no value present in existing array.
+5) Extract local variables adrress and name  of an employee from exitsing  employee object. {name: "Ramesh", address: {city: "Blr", state: "KA"}};
+
+6) Extract city, state alone into local variables currentCity and currentState.
+
+
+Day 18:
+
+1) Write a function whihc takes one parameter name to greet as "Good Morning Given name"
+
+"Good Afternoon name", Good evening name, based on the current time.
+hint: Use Date class to change the current time and date.
+2) Write a class name Degree  with properties such as durationOfCourse, typeOfDegree,  courseFee, courseName, write setter and getter methods for all those properties , also create a static property to get the no of degrees avaiable / created by using the class.
+
+3) Write class which maintains variable tells no of systems available in a class.
+ Make a method to get the count , make a method to increment the counter and also a method to decrement the count variable.
+
+4) Write a class Book which have properties such as name, author, price, genre, rargetteedPeople.
+
+Write a constructor, to initilize the properties of Book.
+Also write setters and getters for the properties.
+
+5) Write programe to return the next value each time untill it recahes 100.(Use generators)
+
+
+Day 19:
+
+1) Write a programe to construct an object which takes the variable literals as properties.
+
+2) Super class - ElectronicDevice {name, price}, child classes can be like Laptop {Dimensions: height and width}, Phone {diagonal}, Telivision { typeOfTv: LCD/LED}.
+
+Create objects for the sub classes Phone ,  => iPhone, samsung like so
+Craete objects for Laptop and Tv as well.
+
+
+3) In above programe , separate Dimensions into a separate class and include that as property in Laptop. Have getters and setters for all the properties.
+
+Day 20:
+
+1) Write a programe to add all the array elements using recursion.
+2) Write a function to remove duplicates in an array using set and return the resultsed array
+3) Write a  function to merge the two sets and return resulted set.
+4) Write a function to find the difference between two sets A and B  and return the resulted set.
+ A : {1,2,3,4,5} , B : {1,2,3}
+difference(A, B) => {4,5} 
+
+Like above differnce function , write a function to join (union) the two sets.
+Like above differnce function , write a function to return common (intersection) elements from the two sets.
+5)  write a  function to merge two maps and return a map.
+6) Write a programe to convert  add elements into map.
+key should a string and value should a anumber.
+
+7) Write a programe to increment the value of ecah entry in the map and set them back too the same key.
