@@ -1,0 +1,8 @@
+download node and install
+npm i  -g npm
+npm i -g @angular/cli
+ng new App
+cd App
+ng serve --open
+
+
