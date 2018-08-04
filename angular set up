@@ -1,8 +1,17 @@
+1) 
+
 download node and install
 npm i  -g npm
 npm i -g @angular/cli
 ng new App
 cd App
 ng serve --open
+
+2)
+
+1) Create a angular project  to display employee details which are connected using a component emp.
+     
+ Employee details:
+ name, id, salary, address
 
 
