@@ -7,11 +7,20 @@ ng new App
 cd App
 ng serve --open
 
+Day 2:
+
 2)
 
 1) Create a angular project  to display employee details which are connected using a component emp.
      
  Employee details:
  name, id, salary, address
+
+Day 3:
+
+3) Write a programe to add student to the list of students.
+4) Write a programe to remove the existing student.
+5) Write a programe to edit studnet details other than id.
+
 
 
