@@ -23,4 +23,12 @@ Day 3:
 5) Write a programe to edit studnet details other than id.
 
 
+Day 4:
+
+6) 
+Write a programe to implement a service.
+Inject the service in component and use the methods.
+
+Try to add custom services and inject one form other.
+
 
