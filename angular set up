@@ -16,14 +16,14 @@ Day 2:
  Employee details:
  name, id, salary, address
 
-Day 3:
+Day 3: Compmonents.
 
 3) Write a programe to add student to the list of students.
 4) Write a programe to remove the existing student.
 5) Write a programe to edit studnet details other than id.
 
 
-Day 4:
+Day 4:  Angular services
 
 6) 
 Write a programe to implement a service.
@@ -32,3 +32,8 @@ Inject the service in component and use the methods.
 Try to add custom services and inject one form other.
 
 
+Day 5: Use Routing
+
+Separate the students list view from new students 
+List out the students in one page.
+Students Detail view in other page.
